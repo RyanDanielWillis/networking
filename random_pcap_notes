@@ -1,0 +1,14 @@
+Packet Capture Notes
+
+Capture File Formats - .pcap and .pcapng(default in wireshark) some other proprietary or outdated formats not fully supported on wireshark
+
+"trace files" sometimes refer to pcap file
+
+
+most pcaps have 2 sections:
+header and packet header/data entries
+
+
+timing data is stored
+
+sometimes in wifi data coordinates are stored
